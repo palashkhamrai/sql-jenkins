@@ -14,3 +14,4 @@ else
 fi
 
 echo "9999999999999999999999999"
+show databases;
