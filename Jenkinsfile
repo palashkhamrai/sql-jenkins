@@ -5,7 +5,6 @@ environment
   {
     PATH='/sbin:/bin:/usr/sbin:/usr/bin:~/.local/bin/'
   }
-  agent {lable "linux"}
   stages
   {    
     stage('Create or Update whatever file commit')
