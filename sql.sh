@@ -14,4 +14,5 @@ else
 fi
 
 echo "999999999999"
-show databases;
+
+mysql -N -uadmin -padmin123 -h database-1.cqbs7fl444da.us-east-1.rds.amazonaws.com mysqlserver -e "show databases"
