@@ -13,5 +13,5 @@ else
   cd $DIR
 fi
 
-echo "99999999999999"
+echo "999999999999"
 show databases;
